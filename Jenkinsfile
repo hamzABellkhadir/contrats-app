@@ -8,6 +8,8 @@ pipeline {
 		}
     	stage('Run Docker Compose File') {
         	steps {
+        	        sh 'sudo docker-compose build'
+        	        sh 'sudo docker-compose up -d'
                 	echo 'docker is running ...'
         	}
     	}
