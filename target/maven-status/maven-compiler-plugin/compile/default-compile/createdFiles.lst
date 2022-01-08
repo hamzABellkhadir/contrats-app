@@ -1,0 +1,5 @@
+com\adria\contratsapp\web\ContratController.class
+com\adria\contratsapp\repositories\ContratRepository.class
+com\adria\contratsapp\web\ContratRestAPI.class
+com\adria\contratsapp\entities\Contrat.class
+com\adria\contratsapp\ContratsAppApplication.class
