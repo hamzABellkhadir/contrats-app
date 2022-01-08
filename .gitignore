@@ -1,6 +1,4 @@
 HELP.md
-target/
-!target/contrat-app-docker-jenkins-integration.jar
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
